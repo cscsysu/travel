@@ -392,9 +392,9 @@ CREATE TABLE `user`  (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES (1, '2939@qq.com', '20030621', 'USER', 828);
-INSERT INTO `user` VALUES (2, '1234@qq.com', '1234', 'ADMIN', 102);
-INSERT INTO `user` VALUES (3, '9999@qq.com', '1234', 'ADMIN', 103);
-INSERT INTO `user` VALUES (4, '8888@qq.com', '1234', 'USER', 10);
+-- INSERT INTO `user` VALUES (1, '2939@qq.com', '20030621', 'USER', 828);
+-- INSERT INTO `user` VALUES (2, '1234@qq.com', '1234', 'ADMIN', 102);
+-- INSERT INTO `user` VALUES (3, '9999@qq.com', '1234', 'ADMIN', 103);
+-- INSERT INTO `user` VALUES (4, '8888@qq.com', '1234', 'USER', 10);
 
 SET FOREIGN_KEY_CHECKS = 1;
